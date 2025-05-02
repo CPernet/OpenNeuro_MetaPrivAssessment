@@ -1,0 +1,969 @@
+Combination,Unique Rows,Unique Rows Excluding Columns,Score
+"Race, EduYrsEstCap, HandednessScore",86,456,-0.03488372093023256
+"Race, EduYrsEstCap, EduComp",28,453,0.0
+"Race, EduYrsEstCap, Sex",36,453,0.0
+"Race, EduYrsEstCap, Ethnicity",30,453,0.0
+"Race, EduYrsEstCap, Height_W1",116,453,0.0
+"Race, EduYrsEstCap, AgeMRI_W1",213,430,0.107981220657277
+"Race, EduYrsEstCap, Weight_W1",221,453,0.0
+"Race, EduYrsEstCap, BMI_W1",399,453,0.0
+"Race, HandednessScore, EduComp",76,456,-0.039473684210526314
+"Race, HandednessScore, Sex",47,456,-0.06382978723404255
+"Race, HandednessScore, Ethnicity",33,456,-0.09090909090909091
+"Race, HandednessScore, Height_W1",133,456,-0.022556390977443608
+"Race, HandednessScore, AgeMRI_W1",253,404,0.19367588932806323
+"Race, HandednessScore, Weight_W1",241,456,-0.012448132780082987
+"Race, HandednessScore, BMI_W1",412,456,-0.007281553398058253
+"Race, EduComp, Sex",21,453,0.0
+"Race, EduComp, Ethnicity",17,453,0.0
+"Race, EduComp, Height_W1",87,453,0.0
+"Race, EduComp, AgeMRI_W1",169,439,0.08284023668639054
+"Race, EduComp, Weight_W1",201,453,0.0
+"Race, EduComp, BMI_W1",375,453,0.0
+"Race, Sex, Ethnicity",3,453,0.0
+"Race, Sex, Height_W1",47,453,0.0
+"Race, Sex, AgeMRI_W1",76,434,0.25
+"Race, Sex, Weight_W1",124,453,0.0
+"Race, Sex, BMI_W1",282,453,0.0
+"Race, Ethnicity, Height_W1",47,453,0.0
+"Race, Ethnicity, AgeMRI_W1",56,439,0.25
+"Race, Ethnicity, Weight_W1",109,453,0.0
+"Race, Ethnicity, BMI_W1",272,453,0.0
+"Race, Height_W1, AgeMRI_W1",324,439,0.043209876543209874
+"Race, Height_W1, Weight_W1",277,453,0.0
+"Race, Height_W1, BMI_W1",277,453,0.0
+"Race, AgeMRI_W1, Weight_W1",415,439,0.033734939759036145
+"Race, AgeMRI_W1, BMI_W1",452,439,0.030973451327433628
+"Race, Weight_W1, BMI_W1",277,449,0.01444043321299639
+"EduYrsEstCap, HandednessScore, EduComp",56,454,-0.017857142857142856
+"EduYrsEstCap, HandednessScore, Sex",82,456,-0.036585365853658534
+"EduYrsEstCap, HandednessScore, Ethnicity",55,456,-0.05454545454545454
+"EduYrsEstCap, HandednessScore, Height_W1",272,456,-0.011029411764705883
+"EduYrsEstCap, HandednessScore, AgeMRI_W1",382,391,0.16230366492146597
+"EduYrsEstCap, HandednessScore, Weight_W1",357,456,-0.008403361344537815
+"EduYrsEstCap, HandednessScore, BMI_W1",434,456,-0.0069124423963133645
+"EduYrsEstCap, EduComp, Sex",7,453,0.0
+"EduYrsEstCap, EduComp, Ethnicity",12,453,0.0
+"EduYrsEstCap, EduComp, Height_W1",83,453,0.0
+"EduYrsEstCap, EduComp, AgeMRI_W1",196,422,0.15816326530612246
+"EduYrsEstCap, EduComp, Weight_W1",194,453,0.0
+"EduYrsEstCap, EduComp, BMI_W1",385,453,0.0
+"EduYrsEstCap, Sex, Ethnicity",11,453,0.0
+"EduYrsEstCap, Sex, Height_W1",82,453,0.0
+"EduYrsEstCap, Sex, AgeMRI_W1",249,431,0.08835341365461848
+"EduYrsEstCap, Sex, Weight_W1",222,453,0.0
+"EduYrsEstCap, Sex, BMI_W1",396,453,0.0
+"EduYrsEstCap, Ethnicity, Height_W1",80,453,0.0
+"EduYrsEstCap, Ethnicity, AgeMRI_W1",196,435,0.09183673469387756
+"EduYrsEstCap, Ethnicity, Weight_W1",184,453,0.0
+"EduYrsEstCap, Ethnicity, BMI_W1",385,453,0.0
+"EduYrsEstCap, Height_W1, AgeMRI_W1",432,435,0.041666666666666664
+"EduYrsEstCap, Height_W1, Weight_W1",385,453,0.0
+"EduYrsEstCap, Height_W1, BMI_W1",385,451,0.005194805194805195
+"EduYrsEstCap, AgeMRI_W1, Weight_W1",450,435,0.04
+"EduYrsEstCap, AgeMRI_W1, BMI_W1",456,435,0.039473684210526314
+"EduYrsEstCap, Weight_W1, BMI_W1",385,449,0.01038961038961039
+"HandednessScore, EduComp, Sex",59,456,-0.05084745762711865
+"HandednessScore, EduComp, Ethnicity",46,456,-0.06521739130434782
+"HandednessScore, EduComp, Height_W1",243,456,-0.012345679012345678
+"HandednessScore, EduComp, AgeMRI_W1",357,411,0.11764705882352941
+"HandednessScore, EduComp, Weight_W1",337,456,-0.008902077151335312
+"HandednessScore, EduComp, BMI_W1",425,456,-0.007058823529411765
+"HandednessScore, Sex, Ethnicity",21,456,-0.14285714285714285
+"HandednessScore, Sex, Height_W1",119,456,-0.025210084033613446
+"HandednessScore, Sex, AgeMRI_W1",280,405,0.17142857142857143
+"HandednessScore, Sex, Weight_W1",262,456,-0.011450381679389313
+"HandednessScore, Sex, BMI_W1",413,456,-0.007263922518159807
+"HandednessScore, Ethnicity, Height_W1",106,456,-0.02830188679245283
+"HandednessScore, Ethnicity, AgeMRI_W1",235,413,0.1702127659574468
+"HandednessScore, Ethnicity, Weight_W1",222,456,-0.013513513513513514
+"HandednessScore, Ethnicity, BMI_W1",406,456,-0.007389162561576354
+"HandednessScore, Height_W1, AgeMRI_W1",423,413,0.09456264775413711
+"HandednessScore, Height_W1, Weight_W1",408,456,-0.007352941176470588
+"HandednessScore, Height_W1, BMI_W1",408,454,-0.0024509803921568627
+"HandednessScore, AgeMRI_W1, Weight_W1",443,413,0.09029345372460497
+"HandednessScore, AgeMRI_W1, BMI_W1",453,413,0.08830022075055188
+"HandednessScore, Weight_W1, BMI_W1",408,448,0.012254901960784314
+"EduComp, Sex, Ethnicity",4,453,0.0
+"EduComp, Sex, Height_W1",52,453,0.0
+"EduComp, Sex, AgeMRI_W1",208,439,0.0673076923076923
+"EduComp, Sex, Weight_W1",190,453,0.0
+"EduComp, Sex, BMI_W1",368,453,0.0
+"EduComp, Ethnicity, Height_W1",44,453,0.0
+"EduComp, Ethnicity, AgeMRI_W1",149,443,0.06711409395973154
+"EduComp, Ethnicity, Weight_W1",159,453,0.0
+"EduComp, Ethnicity, BMI_W1",359,453,0.0
+"EduComp, Height_W1, AgeMRI_W1",423,443,0.02364066193853428
+"EduComp, Height_W1, Weight_W1",357,453,0.0
+"EduComp, Height_W1, BMI_W1",357,453,0.0
+"EduComp, AgeMRI_W1, Weight_W1",444,443,0.02252252252252252
+"EduComp, AgeMRI_W1, BMI_W1",456,443,0.021929824561403508
+"EduComp, Weight_W1, BMI_W1",357,449,0.011204481792717087
+"Sex, Ethnicity, Height_W1",16,453,0.0
+"Sex, Ethnicity, AgeMRI_W1",42,439,0.3333333333333333
+"Sex, Ethnicity, Weight_W1",78,453,0.0
+"Sex, Ethnicity, BMI_W1",262,453,0.0
+"Sex, Height_W1, AgeMRI_W1",304,439,0.046052631578947366
+"Sex, Height_W1, Weight_W1",260,453,0.0
+"Sex, Height_W1, BMI_W1",260,453,0.0
+"Sex, AgeMRI_W1, Weight_W1",422,439,0.03317535545023697
+"Sex, AgeMRI_W1, BMI_W1",448,439,0.03125
+"Sex, Weight_W1, BMI_W1",260,449,0.015384615384615385
+"Ethnicity, Height_W1, AgeMRI_W1",294,443,0.034013605442176874
+"Ethnicity, Height_W1, Weight_W1",255,453,0.0
+"Ethnicity, Height_W1, BMI_W1",255,453,0.0
+"Ethnicity, AgeMRI_W1, Weight_W1",405,443,0.024691358024691357
+"Ethnicity, AgeMRI_W1, BMI_W1",450,443,0.022222222222222223
+"Ethnicity, Weight_W1, BMI_W1",255,449,0.01568627450980392
+"Height_W1, AgeMRI_W1, Weight_W1",448,443,0.022321428571428572
+"Height_W1, AgeMRI_W1, BMI_W1",448,402,0.11383928571428571
+"Height_W1, Weight_W1, BMI_W1",243,415,0.15637860082304528
+"AgeMRI_W1, Weight_W1, BMI_W1",448,339,0.2544642857142857
+"Race, EduYrsEstCap, HandednessScore, EduComp",97,450,0.030927835051546393
+"Race, EduYrsEstCap, HandednessScore, Sex",137,456,-0.021897810218978103
+"Race, EduYrsEstCap, HandednessScore, Ethnicity",94,456,-0.031914893617021274
+"Race, EduYrsEstCap, HandednessScore, Height_W1",299,456,-0.010033444816053512
+"Race, EduYrsEstCap, HandednessScore, AgeMRI_W1",391,376,0.1969309462915601
+"Race, EduYrsEstCap, HandednessScore, Weight_W1",376,456,-0.007978723404255319
+"Race, EduYrsEstCap, HandednessScore, BMI_W1",439,456,-0.00683371298405467
+"Race, EduYrsEstCap, EduComp, Sex",38,453,0.0
+"Race, EduYrsEstCap, EduComp, Ethnicity",31,453,0.0
+"Race, EduYrsEstCap, EduComp, Height_W1",138,453,0.0
+"Race, EduYrsEstCap, EduComp, AgeMRI_W1",233,417,0.15450643776824036
+"Race, EduYrsEstCap, EduComp, Weight_W1",238,453,0.0
+"Race, EduYrsEstCap, EduComp, BMI_W1",401,453,0.0
+"Race, EduYrsEstCap, Sex, Ethnicity",40,453,0.0
+"Race, EduYrsEstCap, Sex, Height_W1",137,453,0.0
+"Race, EduYrsEstCap, Sex, AgeMRI_W1",281,425,0.099644128113879
+"Race, EduYrsEstCap, Sex, Weight_W1",264,453,0.0
+"Race, EduYrsEstCap, Sex, BMI_W1",409,453,0.0
+"Race, EduYrsEstCap, Ethnicity, Height_W1",127,453,0.0
+"Race, EduYrsEstCap, Ethnicity, AgeMRI_W1",222,430,0.1036036036036036
+"Race, EduYrsEstCap, Ethnicity, Weight_W1",228,453,0.0
+"Race, EduYrsEstCap, Ethnicity, BMI_W1",399,453,0.0
+"Race, EduYrsEstCap, Height_W1, AgeMRI_W1",440,430,0.05227272727272727
+"Race, EduYrsEstCap, Height_W1, Weight_W1",403,453,0.0
+"Race, EduYrsEstCap, Height_W1, BMI_W1",403,451,0.004962779156327543
+"Race, EduYrsEstCap, AgeMRI_W1, Weight_W1",450,430,0.051111111111111114
+"Race, EduYrsEstCap, AgeMRI_W1, BMI_W1",456,430,0.05043859649122807
+"Race, EduYrsEstCap, Weight_W1, BMI_W1",403,449,0.009925558312655087
+"Race, HandednessScore, EduComp, Sex",109,456,-0.027522935779816515
+"Race, HandednessScore, EduComp, Ethnicity",84,456,-0.03571428571428571
+"Race, HandednessScore, EduComp, Height_W1",273,456,-0.01098901098901099
+"Race, HandednessScore, EduComp, AgeMRI_W1",376,402,0.1356382978723404
+"Race, HandednessScore, EduComp, Weight_W1",356,456,-0.008426966292134831
+"Race, HandednessScore, EduComp, BMI_W1",431,456,-0.0069605568445475635
+"Race, HandednessScore, Sex, Ethnicity",53,456,-0.05660377358490566
+"Race, HandednessScore, Sex, Height_W1",161,456,-0.018633540372670808
+"Race, HandednessScore, Sex, AgeMRI_W1",311,393,0.19292604501607716
+"Race, HandednessScore, Sex, Weight_W1",280,456,-0.010714285714285714
+"Race, HandednessScore, Sex, BMI_W1",420,456,-0.007142857142857143
+"Race, HandednessScore, Ethnicity, Height_W1",143,456,-0.02097902097902098
+"Race, HandednessScore, Ethnicity, AgeMRI_W1",262,400,0.20229007633587787
+"Race, HandednessScore, Ethnicity, Weight_W1",250,456,-0.012
+"Race, HandednessScore, Ethnicity, BMI_W1",414,456,-0.007246376811594203
+"Race, HandednessScore, Height_W1, AgeMRI_W1",429,404,0.11421911421911422
+"Race, HandednessScore, Height_W1, Weight_W1",414,456,-0.007246376811594203
+"Race, HandednessScore, Height_W1, BMI_W1",414,454,-0.0024154589371980675
+"Race, HandednessScore, AgeMRI_W1, Weight_W1",445,404,0.1101123595505618
+"Race, HandednessScore, AgeMRI_W1, BMI_W1",453,404,0.10816777041942605
+"Race, HandednessScore, Weight_W1, BMI_W1",414,444,0.021739130434782608
+"Race, EduComp, Sex, Ethnicity",26,453,0.0
+"Race, EduComp, Sex, Height_W1",107,453,0.0
+"Race, EduComp, Sex, AgeMRI_W1",246,434,0.07723577235772358
+"Race, EduComp, Sex, Weight_W1",241,453,0.0
+"Race, EduComp, Sex, BMI_W1",387,453,0.0
+"Race, EduComp, Ethnicity, Height_W1",94,453,0.0
+"Race, EduComp, Ethnicity, AgeMRI_W1",180,439,0.07777777777777778
+"Race, EduComp, Ethnicity, Weight_W1",211,453,0.0
+"Race, EduComp, Ethnicity, BMI_W1",377,453,0.0
+"Race, EduComp, Height_W1, AgeMRI_W1",432,439,0.032407407407407406
+"Race, EduComp, Height_W1, Weight_W1",379,453,0.0
+"Race, EduComp, Height_W1, BMI_W1",379,453,0.0
+"Race, EduComp, AgeMRI_W1, Weight_W1",444,439,0.03153153153153153
+"Race, EduComp, AgeMRI_W1, BMI_W1",456,439,0.03070175438596491
+"Race, EduComp, Weight_W1, BMI_W1",379,449,0.010554089709762533
+"Race, Sex, Ethnicity, Height_W1",52,453,0.0
+"Race, Sex, Ethnicity, AgeMRI_W1",85,434,0.2235294117647059
+"Race, Sex, Ethnicity, Weight_W1",134,453,0.0
+"Race, Sex, Ethnicity, BMI_W1",287,453,0.0
+"Race, Sex, Height_W1, AgeMRI_W1",336,434,0.05654761904761905
+"Race, Sex, Height_W1, Weight_W1",293,453,0.0
+"Race, Sex, Height_W1, BMI_W1",293,453,0.0
+"Race, Sex, AgeMRI_W1, Weight_W1",433,434,0.04387990762124711
+"Race, Sex, AgeMRI_W1, BMI_W1",452,434,0.0420353982300885
+"Race, Sex, Weight_W1, BMI_W1",293,449,0.013651877133105802
+"Race, Ethnicity, Height_W1, AgeMRI_W1",329,439,0.0425531914893617
+"Race, Ethnicity, Height_W1, Weight_W1",282,453,0.0
+"Race, Ethnicity, Height_W1, BMI_W1",282,453,0.0
+"Race, Ethnicity, AgeMRI_W1, Weight_W1",420,439,0.03333333333333333
+"Race, Ethnicity, AgeMRI_W1, BMI_W1",454,439,0.030837004405286344
+"Race, Ethnicity, Weight_W1, BMI_W1",282,449,0.014184397163120567
+"Race, Height_W1, AgeMRI_W1, Weight_W1",452,439,0.030973451327433628
+"Race, Height_W1, AgeMRI_W1, BMI_W1",452,391,0.13716814159292035
+"Race, Height_W1, Weight_W1, BMI_W1",277,411,0.15162454873646208
+"Race, AgeMRI_W1, Weight_W1, BMI_W1",452,322,0.28982300884955753
+"EduYrsEstCap, HandednessScore, EduComp, Sex",95,454,-0.010526315789473684
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity",72,452,0.013888888888888888
+"EduYrsEstCap, HandednessScore, EduComp, Height_W1",294,454,-0.003401360544217687
+"EduYrsEstCap, HandednessScore, EduComp, AgeMRI_W1",389,298,0.39845758354755784
+"EduYrsEstCap, HandednessScore, EduComp, Weight_W1",367,454,-0.0027247956403269754
+"EduYrsEstCap, HandednessScore, EduComp, BMI_W1",434,454,-0.002304147465437788
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity",100,456,-0.03
+"EduYrsEstCap, HandednessScore, Sex, Height_W1",294,456,-0.01020408163265306
+"EduYrsEstCap, HandednessScore, Sex, AgeMRI_W1",407,381,0.1769041769041769
+"EduYrsEstCap, HandednessScore, Sex, Weight_W1",378,456,-0.007936507936507936
+"EduYrsEstCap, HandednessScore, Sex, BMI_W1",439,456,-0.00683371298405467
+"EduYrsEstCap, HandednessScore, Ethnicity, Height_W1",282,456,-0.010638297872340425
+"EduYrsEstCap, HandednessScore, Ethnicity, AgeMRI_W1",386,389,0.16580310880829016
+"EduYrsEstCap, HandednessScore, Ethnicity, Weight_W1",365,456,-0.00821917808219178
+"EduYrsEstCap, HandednessScore, Ethnicity, BMI_W1",434,456,-0.0069124423963133645
+"EduYrsEstCap, HandednessScore, Height_W1, AgeMRI_W1",449,391,0.13808463251670378
+"EduYrsEstCap, HandednessScore, Height_W1, Weight_W1",434,456,-0.0069124423963133645
+"EduYrsEstCap, HandednessScore, Height_W1, BMI_W1",434,450,0.0069124423963133645
+"EduYrsEstCap, HandednessScore, AgeMRI_W1, Weight_W1",453,391,0.1368653421633554
+"EduYrsEstCap, HandednessScore, AgeMRI_W1, BMI_W1",453,391,0.1368653421633554
+"EduYrsEstCap, HandednessScore, Weight_W1, BMI_W1",434,440,0.029953917050691243
+"EduYrsEstCap, EduComp, Sex, Ethnicity",17,453,0.0
+"EduYrsEstCap, EduComp, Sex, Height_W1",103,453,0.0
+"EduYrsEstCap, EduComp, Sex, AgeMRI_W1",269,416,0.137546468401487
+"EduYrsEstCap, EduComp, Sex, Weight_W1",240,453,0.0
+"EduYrsEstCap, EduComp, Sex, BMI_W1",398,453,0.0
+"EduYrsEstCap, EduComp, Ethnicity, Height_W1",97,453,0.0
+"EduYrsEstCap, EduComp, Ethnicity, AgeMRI_W1",218,420,0.15137614678899083
+"EduYrsEstCap, EduComp, Ethnicity, Weight_W1",203,453,0.0
+"EduYrsEstCap, EduComp, Ethnicity, BMI_W1",389,453,0.0
+"EduYrsEstCap, EduComp, Height_W1, AgeMRI_W1",438,422,0.07077625570776255
+"EduYrsEstCap, EduComp, Height_W1, Weight_W1",389,453,0.0
+"EduYrsEstCap, EduComp, Height_W1, BMI_W1",389,447,0.015424164524421594
+"EduYrsEstCap, EduComp, AgeMRI_W1, Weight_W1",450,422,0.06888888888888889
+"EduYrsEstCap, EduComp, AgeMRI_W1, BMI_W1",456,422,0.06798245614035088
+"EduYrsEstCap, EduComp, Weight_W1, BMI_W1",389,434,0.04884318766066838
+"EduYrsEstCap, Sex, Ethnicity, Height_W1",102,453,0.0
+"EduYrsEstCap, Sex, Ethnicity, AgeMRI_W1",269,431,0.08178438661710037
+"EduYrsEstCap, Sex, Ethnicity, Weight_W1",234,453,0.0
+"EduYrsEstCap, Sex, Ethnicity, BMI_W1",400,453,0.0
+"EduYrsEstCap, Sex, Height_W1, AgeMRI_W1",436,431,0.05045871559633028
+"EduYrsEstCap, Sex, Height_W1, Weight_W1",398,453,0.0
+"EduYrsEstCap, Sex, Height_W1, BMI_W1",398,451,0.005025125628140704
+"EduYrsEstCap, Sex, AgeMRI_W1, Weight_W1",454,431,0.048458149779735685
+"EduYrsEstCap, Sex, AgeMRI_W1, BMI_W1",456,431,0.04824561403508772
+"EduYrsEstCap, Sex, Weight_W1, BMI_W1",398,447,0.01507537688442211
+"EduYrsEstCap, Ethnicity, Height_W1, AgeMRI_W1",434,435,0.041474654377880185
+"EduYrsEstCap, Ethnicity, Height_W1, Weight_W1",389,453,0.0
+"EduYrsEstCap, Ethnicity, Height_W1, BMI_W1",389,451,0.005141388174807198
+"EduYrsEstCap, Ethnicity, AgeMRI_W1, Weight_W1",452,435,0.03982300884955752
+"EduYrsEstCap, Ethnicity, AgeMRI_W1, BMI_W1",456,435,0.039473684210526314
+"EduYrsEstCap, Ethnicity, Weight_W1, BMI_W1",389,449,0.010282776349614395
+"EduYrsEstCap, Height_W1, AgeMRI_W1, Weight_W1",456,435,0.039473684210526314
+"EduYrsEstCap, Height_W1, AgeMRI_W1, BMI_W1",456,381,0.15789473684210525
+"EduYrsEstCap, Height_W1, Weight_W1, BMI_W1",385,400,0.13766233766233765
+"EduYrsEstCap, AgeMRI_W1, Weight_W1, BMI_W1",456,300,0.3355263157894737
+"HandednessScore, EduComp, Sex, Ethnicity",78,456,-0.038461538461538464
+"HandednessScore, EduComp, Sex, Height_W1",269,456,-0.011152416356877323
+"HandednessScore, EduComp, Sex, AgeMRI_W1",386,403,0.12953367875647667
+"HandednessScore, EduComp, Sex, Weight_W1",363,456,-0.008264462809917356
+"HandednessScore, EduComp, Sex, BMI_W1",430,456,-0.0069767441860465115
+"HandednessScore, EduComp, Ethnicity, Height_W1",254,456,-0.011811023622047244
+"HandednessScore, EduComp, Ethnicity, AgeMRI_W1",363,411,0.11570247933884298
+"HandednessScore, EduComp, Ethnicity, Weight_W1",348,456,-0.008620689655172414
+"HandednessScore, EduComp, Ethnicity, BMI_W1",425,456,-0.007058823529411765
+"HandednessScore, EduComp, Height_W1, AgeMRI_W1",447,411,0.09395973154362416
+"HandednessScore, EduComp, Height_W1, Weight_W1",425,456,-0.007058823529411765
+"HandednessScore, EduComp, Height_W1, BMI_W1",425,454,-0.002352941176470588
+"HandednessScore, EduComp, AgeMRI_W1, Weight_W1",451,411,0.09312638580931264
+"HandednessScore, EduComp, AgeMRI_W1, BMI_W1",453,411,0.09271523178807947
+"HandednessScore, EduComp, Weight_W1, BMI_W1",425,444,0.021176470588235293
+"HandednessScore, Sex, Ethnicity, Height_W1",134,456,-0.022388059701492536
+"HandednessScore, Sex, Ethnicity, AgeMRI_W1",297,405,0.16161616161616163
+"HandednessScore, Sex, Ethnicity, Weight_W1",271,456,-0.01107011070110701
+"HandednessScore, Sex, Ethnicity, BMI_W1",415,456,-0.007228915662650603
+"HandednessScore, Sex, Height_W1, AgeMRI_W1",429,405,0.11188811188811189
+"HandednessScore, Sex, Height_W1, Weight_W1",415,456,-0.007228915662650603
+"HandednessScore, Sex, Height_W1, BMI_W1",415,452,0.0024096385542168677
+"HandednessScore, Sex, AgeMRI_W1, Weight_W1",447,405,0.10738255033557047
+"HandednessScore, Sex, AgeMRI_W1, BMI_W1",453,405,0.10596026490066225
+"HandednessScore, Sex, Weight_W1, BMI_W1",415,446,0.016867469879518072
+"HandednessScore, Ethnicity, Height_W1, AgeMRI_W1",424,413,0.09433962264150944
+"HandednessScore, Ethnicity, Height_W1, Weight_W1",410,456,-0.007317073170731708
+"HandednessScore, Ethnicity, Height_W1, BMI_W1",410,454,-0.0024390243902439024
+"HandednessScore, Ethnicity, AgeMRI_W1, Weight_W1",443,413,0.09029345372460497
+"HandednessScore, Ethnicity, AgeMRI_W1, BMI_W1",453,413,0.08830022075055188
+"HandednessScore, Ethnicity, Weight_W1, BMI_W1",410,446,0.01707317073170732
+"HandednessScore, Height_W1, AgeMRI_W1, Weight_W1",453,411,0.09271523178807947
+"HandednessScore, Height_W1, AgeMRI_W1, BMI_W1",453,286,0.3686534216335541
+"HandednessScore, Height_W1, Weight_W1, BMI_W1",408,305,0.3627450980392157
+"HandednessScore, AgeMRI_W1, Weight_W1, BMI_W1",453,166,0.6335540838852097
+"EduComp, Sex, Ethnicity, Height_W1",68,453,0.0
+"EduComp, Sex, Ethnicity, AgeMRI_W1",230,439,0.06086956521739131
+"EduComp, Sex, Ethnicity, Weight_W1",203,453,0.0
+"EduComp, Sex, Ethnicity, BMI_W1",374,453,0.0
+"EduComp, Sex, Height_W1, AgeMRI_W1",431,439,0.03248259860788863
+"EduComp, Sex, Height_W1, Weight_W1",370,453,0.0
+"EduComp, Sex, Height_W1, BMI_W1",370,453,0.0
+"EduComp, Sex, AgeMRI_W1, Weight_W1",448,439,0.03125
+"EduComp, Sex, AgeMRI_W1, BMI_W1",456,439,0.03070175438596491
+"EduComp, Sex, Weight_W1, BMI_W1",370,449,0.010810810810810811
+"EduComp, Ethnicity, Height_W1, AgeMRI_W1",431,443,0.02320185614849188
+"EduComp, Ethnicity, Height_W1, Weight_W1",363,453,0.0
+"EduComp, Ethnicity, Height_W1, BMI_W1",363,453,0.0
+"EduComp, Ethnicity, AgeMRI_W1, Weight_W1",448,443,0.022321428571428572
+"EduComp, Ethnicity, AgeMRI_W1, BMI_W1",456,443,0.021929824561403508
+"EduComp, Ethnicity, Weight_W1, BMI_W1",363,449,0.011019283746556474
+"EduComp, Height_W1, AgeMRI_W1, Weight_W1",456,443,0.021929824561403508
+"EduComp, Height_W1, AgeMRI_W1, BMI_W1",456,396,0.125
+"EduComp, Height_W1, Weight_W1, BMI_W1",357,411,0.11764705882352941
+"EduComp, AgeMRI_W1, Weight_W1, BMI_W1",456,326,0.27850877192982454
+"Sex, Ethnicity, Height_W1, AgeMRI_W1",314,439,0.044585987261146494
+"Sex, Ethnicity, Height_W1, Weight_W1",271,453,0.0
+"Sex, Ethnicity, Height_W1, BMI_W1",271,453,0.0
+"Sex, Ethnicity, AgeMRI_W1, Weight_W1",423,439,0.03309692671394799
+"Sex, Ethnicity, AgeMRI_W1, BMI_W1",450,439,0.03111111111111111
+"Sex, Ethnicity, Weight_W1, BMI_W1",271,449,0.014760147601476014
+"Sex, Height_W1, AgeMRI_W1, Weight_W1",448,439,0.03125
+"Sex, Height_W1, AgeMRI_W1, BMI_W1",448,389,0.14285714285714285
+"Sex, Height_W1, Weight_W1, BMI_W1",260,396,0.21923076923076923
+"Sex, AgeMRI_W1, Weight_W1, BMI_W1",448,323,0.29017857142857145
+"Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",450,443,0.022222222222222223
+"Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",450,397,0.12444444444444444
+"Ethnicity, Height_W1, Weight_W1, BMI_W1",255,415,0.14901960784313725
+"Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",450,333,0.26666666666666666
+"Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",448,151,0.6741071428571429
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex",145,450,0.020689655172413793
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity",104,448,0.04807692307692308
+"Race, EduYrsEstCap, HandednessScore, EduComp, Height_W1",317,450,0.00946372239747634
+"Race, EduYrsEstCap, HandednessScore, EduComp, AgeMRI_W1",396,271,0.4595959595959596
+"Race, EduYrsEstCap, HandednessScore, EduComp, Weight_W1",382,450,0.007853403141361256
+"Race, EduYrsEstCap, HandednessScore, EduComp, BMI_W1",439,450,0.00683371298405467
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity",142,456,-0.02112676056338028
+"Race, EduYrsEstCap, HandednessScore, Sex, Height_W1",318,456,-0.009433962264150943
+"Race, EduYrsEstCap, HandednessScore, Sex, AgeMRI_W1",411,363,0.21897810218978103
+"Race, EduYrsEstCap, HandednessScore, Sex, Weight_W1",391,456,-0.0076726342710997444
+"Race, EduYrsEstCap, HandednessScore, Sex, BMI_W1",443,456,-0.006772009029345372
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Height_W1",309,456,-0.009708737864077669
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, AgeMRI_W1",391,370,0.21227621483375958
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Weight_W1",383,456,-0.007832898172323759
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, BMI_W1",439,456,-0.00683371298405467
+"Race, EduYrsEstCap, HandednessScore, Height_W1, AgeMRI_W1",449,376,0.1714922048997773
+"Race, EduYrsEstCap, HandednessScore, Height_W1, Weight_W1",439,456,-0.00683371298405467
+"Race, EduYrsEstCap, HandednessScore, Height_W1, BMI_W1",439,450,0.00683371298405467
+"Race, EduYrsEstCap, HandednessScore, AgeMRI_W1, Weight_W1",453,376,0.16997792494481237
+"Race, EduYrsEstCap, HandednessScore, AgeMRI_W1, BMI_W1",453,376,0.16997792494481237
+"Race, EduYrsEstCap, HandednessScore, Weight_W1, BMI_W1",439,437,0.03644646924829157
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity",44,453,0.0
+"Race, EduYrsEstCap, EduComp, Sex, Height_W1",159,453,0.0
+"Race, EduYrsEstCap, EduComp, Sex, AgeMRI_W1",297,410,0.1447811447811448
+"Race, EduYrsEstCap, EduComp, Sex, Weight_W1",280,453,0.0
+"Race, EduYrsEstCap, EduComp, Sex, BMI_W1",411,453,0.0
+"Race, EduYrsEstCap, EduComp, Ethnicity, Height_W1",145,453,0.0
+"Race, EduYrsEstCap, EduComp, Ethnicity, AgeMRI_W1",241,415,0.15767634854771784
+"Race, EduYrsEstCap, EduComp, Ethnicity, Weight_W1",244,453,0.0
+"Race, EduYrsEstCap, EduComp, Ethnicity, BMI_W1",401,453,0.0
+"Race, EduYrsEstCap, EduComp, Height_W1, AgeMRI_W1",444,417,0.08108108108108109
+"Race, EduYrsEstCap, EduComp, Height_W1, Weight_W1",405,453,0.0
+"Race, EduYrsEstCap, EduComp, Height_W1, BMI_W1",405,447,0.014814814814814815
+"Race, EduYrsEstCap, EduComp, AgeMRI_W1, Weight_W1",450,417,0.08
+"Race, EduYrsEstCap, EduComp, AgeMRI_W1, BMI_W1",456,417,0.07894736842105263
+"Race, EduYrsEstCap, EduComp, Weight_W1, BMI_W1",405,430,0.056790123456790124
+"Race, EduYrsEstCap, Sex, Ethnicity, Height_W1",146,453,0.0
+"Race, EduYrsEstCap, Sex, Ethnicity, AgeMRI_W1",290,425,0.09655172413793103
+"Race, EduYrsEstCap, Sex, Ethnicity, Weight_W1",272,453,0.0
+"Race, EduYrsEstCap, Sex, Ethnicity, BMI_W1",409,453,0.0
+"Race, EduYrsEstCap, Sex, Height_W1, AgeMRI_W1",442,425,0.06334841628959276
+"Race, EduYrsEstCap, Sex, Height_W1, Weight_W1",411,453,0.0
+"Race, EduYrsEstCap, Sex, Height_W1, BMI_W1",411,451,0.004866180048661801
+"Race, EduYrsEstCap, Sex, AgeMRI_W1, Weight_W1",454,425,0.06167400881057269
+"Race, EduYrsEstCap, Sex, AgeMRI_W1, BMI_W1",456,425,0.06140350877192982
+"Race, EduYrsEstCap, Sex, Weight_W1, BMI_W1",411,447,0.014598540145985401
+"Race, EduYrsEstCap, Ethnicity, Height_W1, AgeMRI_W1",442,430,0.05203619909502263
+"Race, EduYrsEstCap, Ethnicity, Height_W1, Weight_W1",403,453,0.0
+"Race, EduYrsEstCap, Ethnicity, Height_W1, BMI_W1",403,451,0.004962779156327543
+"Race, EduYrsEstCap, Ethnicity, AgeMRI_W1, Weight_W1",452,430,0.05088495575221239
+"Race, EduYrsEstCap, Ethnicity, AgeMRI_W1, BMI_W1",456,430,0.05043859649122807
+"Race, EduYrsEstCap, Ethnicity, Weight_W1, BMI_W1",403,449,0.009925558312655087
+"Race, EduYrsEstCap, Height_W1, AgeMRI_W1, Weight_W1",456,430,0.05043859649122807
+"Race, EduYrsEstCap, Height_W1, AgeMRI_W1, BMI_W1",456,371,0.17982456140350878
+"Race, EduYrsEstCap, Height_W1, Weight_W1, BMI_W1",403,388,0.16129032258064516
+"Race, EduYrsEstCap, AgeMRI_W1, Weight_W1, BMI_W1",456,281,0.37719298245614036
+"Race, HandednessScore, EduComp, Sex, Ethnicity",117,456,-0.02564102564102564
+"Race, HandednessScore, EduComp, Sex, Height_W1",293,456,-0.010238907849829351
+"Race, HandednessScore, EduComp, Sex, AgeMRI_W1",400,389,0.16
+"Race, HandednessScore, EduComp, Sex, Weight_W1",374,456,-0.008021390374331552
+"Race, HandednessScore, EduComp, Sex, BMI_W1",435,456,-0.006896551724137931
+"Race, HandednessScore, EduComp, Ethnicity, Height_W1",280,456,-0.010714285714285714
+"Race, HandednessScore, EduComp, Ethnicity, AgeMRI_W1",376,398,0.14627659574468085
+"Race, HandednessScore, EduComp, Ethnicity, Weight_W1",365,456,-0.00821917808219178
+"Race, HandednessScore, EduComp, Ethnicity, BMI_W1",431,456,-0.0069605568445475635
+"Race, HandednessScore, EduComp, Height_W1, AgeMRI_W1",447,402,0.11409395973154363
+"Race, HandednessScore, EduComp, Height_W1, Weight_W1",431,456,-0.0069605568445475635
+"Race, HandednessScore, EduComp, Height_W1, BMI_W1",431,454,-0.002320185614849188
+"Race, HandednessScore, EduComp, AgeMRI_W1, Weight_W1",451,402,0.1130820399113082
+"Race, HandednessScore, EduComp, AgeMRI_W1, BMI_W1",453,402,0.11258278145695365
+"Race, HandednessScore, EduComp, Weight_W1, BMI_W1",431,438,0.03480278422273782
+"Race, HandednessScore, Sex, Ethnicity, Height_W1",169,456,-0.01775147928994083
+"Race, HandednessScore, Sex, Ethnicity, AgeMRI_W1",318,389,0.20125786163522014
+"Race, HandednessScore, Sex, Ethnicity, Weight_W1",288,456,-0.010416666666666666
+"Race, HandednessScore, Sex, Ethnicity, BMI_W1",422,456,-0.0071090047393364926
+"Race, HandednessScore, Sex, Height_W1, AgeMRI_W1",433,393,0.13856812933025403
+"Race, HandednessScore, Sex, Height_W1, Weight_W1",420,456,-0.007142857142857143
+"Race, HandednessScore, Sex, Height_W1, BMI_W1",420,452,0.002380952380952381
+"Race, HandednessScore, Sex, AgeMRI_W1, Weight_W1",447,393,0.1342281879194631
+"Race, HandednessScore, Sex, AgeMRI_W1, BMI_W1",453,393,0.13245033112582782
+"Race, HandednessScore, Sex, Weight_W1, BMI_W1",420,440,0.030952380952380953
+"Race, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1",430,400,0.12325581395348838
+"Race, HandednessScore, Ethnicity, Height_W1, Weight_W1",416,456,-0.007211538461538462
+"Race, HandednessScore, Ethnicity, Height_W1, BMI_W1",416,454,-0.002403846153846154
+"Race, HandednessScore, Ethnicity, AgeMRI_W1, Weight_W1",445,400,0.11910112359550562
+"Race, HandednessScore, Ethnicity, AgeMRI_W1, BMI_W1",453,400,0.11699779249448124
+"Race, HandednessScore, Ethnicity, Weight_W1, BMI_W1",416,442,0.026442307692307692
+"Race, HandednessScore, Height_W1, AgeMRI_W1, Weight_W1",453,402,0.11258278145695365
+"Race, HandednessScore, Height_W1, AgeMRI_W1, BMI_W1",453,250,0.4481236203090508
+"Race, HandednessScore, Height_W1, Weight_W1, BMI_W1",414,285,0.4057971014492754
+"Race, HandednessScore, AgeMRI_W1, Weight_W1, BMI_W1",453,121,0.7328918322295805
+"Race, EduComp, Sex, Ethnicity, Height_W1",115,453,0.0
+"Race, EduComp, Sex, Ethnicity, AgeMRI_W1",257,434,0.07392996108949416
+"Race, EduComp, Sex, Ethnicity, Weight_W1",248,453,0.0
+"Race, EduComp, Sex, Ethnicity, BMI_W1",389,453,0.0
+"Race, EduComp, Sex, Height_W1, AgeMRI_W1",436,434,0.04357798165137615
+"Race, EduComp, Sex, Height_W1, Weight_W1",389,453,0.0
+"Race, EduComp, Sex, Height_W1, BMI_W1",389,453,0.0
+"Race, EduComp, Sex, AgeMRI_W1, Weight_W1",448,434,0.04241071428571429
+"Race, EduComp, Sex, AgeMRI_W1, BMI_W1",456,434,0.041666666666666664
+"Race, EduComp, Sex, Weight_W1, BMI_W1",389,449,0.010282776349614395
+"Race, EduComp, Ethnicity, Height_W1, AgeMRI_W1",436,439,0.03211009174311927
+"Race, EduComp, Ethnicity, Height_W1, Weight_W1",381,453,0.0
+"Race, EduComp, Ethnicity, Height_W1, BMI_W1",381,453,0.0
+"Race, EduComp, Ethnicity, AgeMRI_W1, Weight_W1",448,439,0.03125
+"Race, EduComp, Ethnicity, AgeMRI_W1, BMI_W1",456,439,0.03070175438596491
+"Race, EduComp, Ethnicity, Weight_W1, BMI_W1",381,449,0.010498687664041995
+"Race, EduComp, Height_W1, AgeMRI_W1, Weight_W1",456,439,0.03070175438596491
+"Race, EduComp, Height_W1, AgeMRI_W1, BMI_W1",456,383,0.15350877192982457
+"Race, EduComp, Height_W1, Weight_W1, BMI_W1",379,407,0.12137203166226913
+"Race, EduComp, AgeMRI_W1, Weight_W1, BMI_W1",456,303,0.32894736842105265
+"Race, Sex, Ethnicity, Height_W1, AgeMRI_W1",341,434,0.05571847507331378
+"Race, Sex, Ethnicity, Height_W1, Weight_W1",298,453,0.0
+"Race, Sex, Ethnicity, Height_W1, BMI_W1",298,453,0.0
+"Race, Sex, Ethnicity, AgeMRI_W1, Weight_W1",434,434,0.04377880184331797
+"Race, Sex, Ethnicity, AgeMRI_W1, BMI_W1",454,434,0.04185022026431718
+"Race, Sex, Ethnicity, Weight_W1, BMI_W1",298,449,0.013422818791946308
+"Race, Sex, Height_W1, AgeMRI_W1, Weight_W1",452,434,0.0420353982300885
+"Race, Sex, Height_W1, AgeMRI_W1, BMI_W1",452,375,0.17256637168141592
+"Race, Sex, Height_W1, Weight_W1, BMI_W1",293,393,0.20477815699658702
+"Race, Sex, AgeMRI_W1, Weight_W1, BMI_W1",452,302,0.334070796460177
+"Race, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",454,439,0.030837004405286344
+"Race, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",454,386,0.14757709251101322
+"Race, Ethnicity, Height_W1, Weight_W1, BMI_W1",282,411,0.14893617021276595
+"Race, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",454,313,0.30837004405286345
+"Race, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",452,114,0.75
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity",114,452,0.008771929824561403
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1",313,454,-0.003194888178913738
+"EduYrsEstCap, HandednessScore, EduComp, Sex, AgeMRI_W1",411,282,0.41605839416058393
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Weight_W1",386,454,-0.0025906735751295338
+"EduYrsEstCap, HandednessScore, EduComp, Sex, BMI_W1",439,454,-0.002277904328018223
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1",302,452,0.0033112582781456954
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, AgeMRI_W1",393,293,0.4071246819338422
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Weight_W1",375,452,0.0026666666666666666
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, BMI_W1",434,452,0.002304147465437788
+"EduYrsEstCap, HandednessScore, EduComp, Height_W1, AgeMRI_W1",449,298,0.34521158129175944
+"EduYrsEstCap, HandednessScore, EduComp, Height_W1, Weight_W1",434,454,-0.002304147465437788
+"EduYrsEstCap, HandednessScore, EduComp, Height_W1, BMI_W1",434,434,0.04377880184331797
+"EduYrsEstCap, HandednessScore, EduComp, AgeMRI_W1, Weight_W1",453,298,0.34216335540838855
+"EduYrsEstCap, HandednessScore, EduComp, AgeMRI_W1, BMI_W1",453,298,0.34216335540838855
+"EduYrsEstCap, HandednessScore, EduComp, Weight_W1, BMI_W1",434,341,0.25806451612903225
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1",303,456,-0.009900990099009901
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, AgeMRI_W1",407,379,0.18181818181818182
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Weight_W1",383,456,-0.007832898172323759
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, BMI_W1",439,456,-0.00683371298405467
+"EduYrsEstCap, HandednessScore, Sex, Height_W1, AgeMRI_W1",449,381,0.1603563474387528
+"EduYrsEstCap, HandednessScore, Sex, Height_W1, Weight_W1",439,456,-0.00683371298405467
+"EduYrsEstCap, HandednessScore, Sex, Height_W1, BMI_W1",439,448,0.011389521640091117
+"EduYrsEstCap, HandednessScore, Sex, AgeMRI_W1, Weight_W1",453,381,0.15894039735099338
+"EduYrsEstCap, HandednessScore, Sex, AgeMRI_W1, BMI_W1",453,381,0.15894039735099338
+"EduYrsEstCap, HandednessScore, Sex, Weight_W1, BMI_W1",439,436,0.0387243735763098
+"EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1",449,389,0.14253897550111358
+"EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, Weight_W1",434,456,-0.0069124423963133645
+"EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, BMI_W1",434,448,0.01152073732718894
+"EduYrsEstCap, HandednessScore, Ethnicity, AgeMRI_W1, Weight_W1",453,389,0.141280353200883
+"EduYrsEstCap, HandednessScore, Ethnicity, AgeMRI_W1, BMI_W1",453,389,0.141280353200883
+"EduYrsEstCap, HandednessScore, Ethnicity, Weight_W1, BMI_W1",434,436,0.03917050691244239
+"EduYrsEstCap, HandednessScore, Height_W1, AgeMRI_W1, Weight_W1",453,389,0.141280353200883
+"EduYrsEstCap, HandednessScore, Height_W1, AgeMRI_W1, BMI_W1",453,248,0.45253863134657835
+"EduYrsEstCap, HandednessScore, Height_W1, Weight_W1, BMI_W1",434,257,0.45161290322580644
+"EduYrsEstCap, HandednessScore, AgeMRI_W1, Weight_W1, BMI_W1",453,115,0.7461368653421634
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1",121,453,0.0
+"EduYrsEstCap, EduComp, Sex, Ethnicity, AgeMRI_W1",285,414,0.1368421052631579
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Weight_W1",250,453,0.0
+"EduYrsEstCap, EduComp, Sex, Ethnicity, BMI_W1",402,453,0.0
+"EduYrsEstCap, EduComp, Sex, Height_W1, AgeMRI_W1",442,416,0.083710407239819
+"EduYrsEstCap, EduComp, Sex, Height_W1, Weight_W1",400,453,0.0
+"EduYrsEstCap, EduComp, Sex, Height_W1, BMI_W1",400,445,0.02
+"EduYrsEstCap, EduComp, Sex, AgeMRI_W1, Weight_W1",454,416,0.08149779735682819
+"EduYrsEstCap, EduComp, Sex, AgeMRI_W1, BMI_W1",456,416,0.08114035087719298
+"EduYrsEstCap, EduComp, Sex, Weight_W1, BMI_W1",400,430,0.0575
+"EduYrsEstCap, EduComp, Ethnicity, Height_W1, AgeMRI_W1",440,420,0.075
+"EduYrsEstCap, EduComp, Ethnicity, Height_W1, Weight_W1",393,453,0.0
+"EduYrsEstCap, EduComp, Ethnicity, Height_W1, BMI_W1",393,447,0.015267175572519083
+"EduYrsEstCap, EduComp, Ethnicity, AgeMRI_W1, Weight_W1",452,420,0.07300884955752213
+"EduYrsEstCap, EduComp, Ethnicity, AgeMRI_W1, BMI_W1",456,420,0.07236842105263158
+"EduYrsEstCap, EduComp, Ethnicity, Weight_W1, BMI_W1",393,433,0.05089058524173028
+"EduYrsEstCap, EduComp, Height_W1, AgeMRI_W1, Weight_W1",456,422,0.06798245614035088
+"EduYrsEstCap, EduComp, Height_W1, AgeMRI_W1, BMI_W1",456,288,0.3618421052631579
+"EduYrsEstCap, EduComp, Height_W1, Weight_W1, BMI_W1",389,318,0.34704370179948585
+"EduYrsEstCap, EduComp, AgeMRI_W1, Weight_W1, BMI_W1",456,169,0.6228070175438597
+"EduYrsEstCap, Sex, Ethnicity, Height_W1, AgeMRI_W1",438,431,0.0502283105022831
+"EduYrsEstCap, Sex, Ethnicity, Height_W1, Weight_W1",402,453,0.0
+"EduYrsEstCap, Sex, Ethnicity, Height_W1, BMI_W1",402,451,0.004975124378109453
+"EduYrsEstCap, Sex, Ethnicity, AgeMRI_W1, Weight_W1",454,431,0.048458149779735685
+"EduYrsEstCap, Sex, Ethnicity, AgeMRI_W1, BMI_W1",456,431,0.04824561403508772
+"EduYrsEstCap, Sex, Ethnicity, Weight_W1, BMI_W1",402,447,0.014925373134328358
+"EduYrsEstCap, Sex, Height_W1, AgeMRI_W1, Weight_W1",456,431,0.04824561403508772
+"EduYrsEstCap, Sex, Height_W1, AgeMRI_W1, BMI_W1",456,365,0.19298245614035087
+"EduYrsEstCap, Sex, Height_W1, Weight_W1, BMI_W1",398,376,0.1934673366834171
+"EduYrsEstCap, Sex, AgeMRI_W1, Weight_W1, BMI_W1",456,280,0.3793859649122807
+"EduYrsEstCap, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,435,0.039473684210526314
+"EduYrsEstCap, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,374,0.17324561403508773
+"EduYrsEstCap, Ethnicity, Height_W1, Weight_W1, BMI_W1",389,400,0.13624678663239073
+"EduYrsEstCap, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,293,0.3508771929824561
+"EduYrsEstCap, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,117,0.7368421052631579
+"HandednessScore, EduComp, Sex, Ethnicity, Height_W1",281,456,-0.010676156583629894
+"HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1",388,403,0.12886597938144329
+"HandednessScore, EduComp, Sex, Ethnicity, Weight_W1",371,456,-0.008086253369272238
+"HandednessScore, EduComp, Sex, Ethnicity, BMI_W1",430,456,-0.0069767441860465115
+"HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1",449,403,0.111358574610245
+"HandednessScore, EduComp, Sex, Height_W1, Weight_W1",430,456,-0.0069767441860465115
+"HandednessScore, EduComp, Sex, Height_W1, BMI_W1",430,452,0.002325581395348837
+"HandednessScore, EduComp, Sex, AgeMRI_W1, Weight_W1",451,403,0.11086474501108648
+"HandednessScore, EduComp, Sex, AgeMRI_W1, BMI_W1",453,403,0.11037527593818984
+"HandednessScore, EduComp, Sex, Weight_W1, BMI_W1",430,442,0.02558139534883721
+"HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1",447,411,0.09395973154362416
+"HandednessScore, EduComp, Ethnicity, Height_W1, Weight_W1",425,456,-0.007058823529411765
+"HandednessScore, EduComp, Ethnicity, Height_W1, BMI_W1",425,454,-0.002352941176470588
+"HandednessScore, EduComp, Ethnicity, AgeMRI_W1, Weight_W1",451,411,0.09312638580931264
+"HandednessScore, EduComp, Ethnicity, AgeMRI_W1, BMI_W1",453,411,0.09271523178807947
+"HandednessScore, EduComp, Ethnicity, Weight_W1, BMI_W1",425,442,0.02588235294117647
+"HandednessScore, EduComp, Height_W1, AgeMRI_W1, Weight_W1",453,409,0.09713024282560706
+"HandednessScore, EduComp, Height_W1, AgeMRI_W1, BMI_W1",453,272,0.3995584988962472
+"HandednessScore, EduComp, Height_W1, Weight_W1, BMI_W1",425,290,0.3835294117647059
+"HandednessScore, EduComp, AgeMRI_W1, Weight_W1, BMI_W1",453,146,0.6777041942604857
+"HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1",430,405,0.11162790697674418
+"HandednessScore, Sex, Ethnicity, Height_W1, Weight_W1",417,456,-0.007194244604316547
+"HandednessScore, Sex, Ethnicity, Height_W1, BMI_W1",417,450,0.007194244604316547
+"HandednessScore, Sex, Ethnicity, AgeMRI_W1, Weight_W1",447,405,0.10738255033557047
+"HandednessScore, Sex, Ethnicity, AgeMRI_W1, BMI_W1",453,405,0.10596026490066225
+"HandednessScore, Sex, Ethnicity, Weight_W1, BMI_W1",417,444,0.02158273381294964
+"HandednessScore, Sex, Height_W1, AgeMRI_W1, Weight_W1",453,401,0.11479028697571744
+"HandednessScore, Sex, Height_W1, AgeMRI_W1, BMI_W1",453,244,0.4613686534216336
+"HandednessScore, Sex, Height_W1, Weight_W1, BMI_W1",415,241,0.5108433734939759
+"HandednessScore, Sex, AgeMRI_W1, Weight_W1, BMI_W1",453,145,0.6799116997792495
+"HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,411,0.09271523178807947
+"HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,280,0.3818984547461369
+"HandednessScore, Ethnicity, Height_W1, Weight_W1, BMI_W1",410,297,0.3804878048780488
+"HandednessScore, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,159,0.6490066225165563
+"HandednessScore, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,44,0.9028697571743929
+"EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1",437,439,0.032036613272311214
+"EduComp, Sex, Ethnicity, Height_W1, Weight_W1",376,453,0.0
+"EduComp, Sex, Ethnicity, Height_W1, BMI_W1",376,453,0.0
+"EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1",450,439,0.03111111111111111
+"EduComp, Sex, Ethnicity, AgeMRI_W1, BMI_W1",456,439,0.03070175438596491
+"EduComp, Sex, Ethnicity, Weight_W1, BMI_W1",376,449,0.010638297872340425
+"EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1",456,439,0.03070175438596491
+"EduComp, Sex, Height_W1, AgeMRI_W1, BMI_W1",456,383,0.15350877192982457
+"EduComp, Sex, Height_W1, Weight_W1, BMI_W1",370,391,0.16756756756756758
+"EduComp, Sex, AgeMRI_W1, Weight_W1, BMI_W1",456,309,0.3157894736842105
+"EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,443,0.021929824561403508
+"EduComp, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,391,0.13596491228070176
+"EduComp, Ethnicity, Height_W1, Weight_W1, BMI_W1",363,411,0.11570247933884298
+"EduComp, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,318,0.29605263157894735
+"EduComp, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,142,0.6820175438596491
+"Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",450,439,0.03111111111111111
+"Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",450,382,0.15777777777777777
+"Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",271,396,0.21033210332103322
+"Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",450,317,0.3022222222222222
+"Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",448,104,0.7790178571428571
+"Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",450,145,0.6844444444444444
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity",151,448,0.033112582781456956
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1",333,450,0.009009009009009009
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, AgeMRI_W1",415,255,0.4771084337349398
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Weight_W1",397,450,0.007556675062972292
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, BMI_W1",443,450,0.006772009029345372
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1",323,448,0.015479876160990712
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, AgeMRI_W1",396,260,0.48737373737373735
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Weight_W1",389,448,0.012853470437017995
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, BMI_W1",439,448,0.011389521640091117
+"Race, EduYrsEstCap, HandednessScore, EduComp, Height_W1, AgeMRI_W1",449,271,0.4053452115812918
+"Race, EduYrsEstCap, HandednessScore, EduComp, Height_W1, Weight_W1",439,450,0.00683371298405467
+"Race, EduYrsEstCap, HandednessScore, EduComp, Height_W1, BMI_W1",439,423,0.0683371298405467
+"Race, EduYrsEstCap, HandednessScore, EduComp, AgeMRI_W1, Weight_W1",453,271,0.40176600441501104
+"Race, EduYrsEstCap, HandednessScore, EduComp, AgeMRI_W1, BMI_W1",453,271,0.40176600441501104
+"Race, EduYrsEstCap, HandednessScore, EduComp, Weight_W1, BMI_W1",439,314,0.31662870159453305
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1",326,456,-0.009202453987730062
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, AgeMRI_W1",411,357,0.23357664233576642
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Weight_W1",396,456,-0.007575757575757576
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, BMI_W1",443,456,-0.006772009029345372
+"Race, EduYrsEstCap, HandednessScore, Sex, Height_W1, AgeMRI_W1",449,363,0.20044543429844097
+"Race, EduYrsEstCap, HandednessScore, Sex, Height_W1, Weight_W1",443,456,-0.006772009029345372
+"Race, EduYrsEstCap, HandednessScore, Sex, Height_W1, BMI_W1",443,448,0.011286681715575621
+"Race, EduYrsEstCap, HandednessScore, Sex, AgeMRI_W1, Weight_W1",453,363,0.1986754966887417
+"Race, EduYrsEstCap, HandednessScore, Sex, AgeMRI_W1, BMI_W1",453,363,0.1986754966887417
+"Race, EduYrsEstCap, HandednessScore, Sex, Weight_W1, BMI_W1",443,431,0.04966139954853273
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1",449,370,0.18485523385300667
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, Weight_W1",439,456,-0.00683371298405467
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, BMI_W1",439,448,0.011389521640091117
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, AgeMRI_W1, Weight_W1",453,370,0.18322295805739514
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, AgeMRI_W1, BMI_W1",453,370,0.18322295805739514
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Weight_W1, BMI_W1",439,431,0.05011389521640091
+"Race, EduYrsEstCap, HandednessScore, Height_W1, AgeMRI_W1, Weight_W1",453,374,0.17439293598233996
+"Race, EduYrsEstCap, HandednessScore, Height_W1, AgeMRI_W1, BMI_W1",453,203,0.5518763796909493
+"Race, EduYrsEstCap, HandednessScore, Height_W1, Weight_W1, BMI_W1",439,230,0.5079726651480638
+"Race, EduYrsEstCap, HandednessScore, AgeMRI_W1, Weight_W1, BMI_W1",453,68,0.8498896247240618
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1",166,453,0.0
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, AgeMRI_W1",305,408,0.14754098360655737
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Weight_W1",286,453,0.0
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, BMI_W1",411,453,0.0
+"Race, EduYrsEstCap, EduComp, Sex, Height_W1, AgeMRI_W1",446,410,0.09641255605381166
+"Race, EduYrsEstCap, EduComp, Sex, Height_W1, Weight_W1",413,453,0.0
+"Race, EduYrsEstCap, EduComp, Sex, Height_W1, BMI_W1",413,443,0.024213075060532687
+"Race, EduYrsEstCap, EduComp, Sex, AgeMRI_W1, Weight_W1",454,410,0.0947136563876652
+"Race, EduYrsEstCap, EduComp, Sex, AgeMRI_W1, BMI_W1",456,410,0.09429824561403509
+"Race, EduYrsEstCap, EduComp, Sex, Weight_W1, BMI_W1",413,424,0.07021791767554479
+"Race, EduYrsEstCap, EduComp, Ethnicity, Height_W1, AgeMRI_W1",446,415,0.08520179372197309
+"Race, EduYrsEstCap, EduComp, Ethnicity, Height_W1, Weight_W1",405,453,0.0
+"Race, EduYrsEstCap, EduComp, Ethnicity, Height_W1, BMI_W1",405,447,0.014814814814814815
+"Race, EduYrsEstCap, EduComp, Ethnicity, AgeMRI_W1, Weight_W1",452,415,0.084070796460177
+"Race, EduYrsEstCap, EduComp, Ethnicity, AgeMRI_W1, BMI_W1",456,415,0.08333333333333333
+"Race, EduYrsEstCap, EduComp, Ethnicity, Weight_W1, BMI_W1",405,429,0.05925925925925926
+"Race, EduYrsEstCap, EduComp, Height_W1, AgeMRI_W1, Weight_W1",456,415,0.08333333333333333
+"Race, EduYrsEstCap, EduComp, Height_W1, AgeMRI_W1, BMI_W1",456,271,0.3991228070175439
+"Race, EduYrsEstCap, EduComp, Height_W1, Weight_W1, BMI_W1",405,297,0.3851851851851852
+"Race, EduYrsEstCap, EduComp, AgeMRI_W1, Weight_W1, BMI_W1",456,134,0.6995614035087719
+"Race, EduYrsEstCap, Sex, Ethnicity, Height_W1, AgeMRI_W1",444,425,0.06306306306306306
+"Race, EduYrsEstCap, Sex, Ethnicity, Height_W1, Weight_W1",411,453,0.0
+"Race, EduYrsEstCap, Sex, Ethnicity, Height_W1, BMI_W1",411,451,0.004866180048661801
+"Race, EduYrsEstCap, Sex, Ethnicity, AgeMRI_W1, Weight_W1",454,425,0.06167400881057269
+"Race, EduYrsEstCap, Sex, Ethnicity, AgeMRI_W1, BMI_W1",456,425,0.06140350877192982
+"Race, EduYrsEstCap, Sex, Ethnicity, Weight_W1, BMI_W1",411,447,0.014598540145985401
+"Race, EduYrsEstCap, Sex, Height_W1, AgeMRI_W1, Weight_W1",456,425,0.06140350877192982
+"Race, EduYrsEstCap, Sex, Height_W1, AgeMRI_W1, BMI_W1",456,348,0.23026315789473684
+"Race, EduYrsEstCap, Sex, Height_W1, Weight_W1, BMI_W1",411,363,0.21897810218978103
+"Race, EduYrsEstCap, Sex, AgeMRI_W1, Weight_W1, BMI_W1",456,254,0.43640350877192985
+"Race, EduYrsEstCap, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,430,0.05043859649122807
+"Race, EduYrsEstCap, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,363,0.19736842105263158
+"Race, EduYrsEstCap, Ethnicity, Height_W1, Weight_W1, BMI_W1",403,386,0.1662531017369727
+"Race, EduYrsEstCap, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,269,0.40350877192982454
+"Race, EduYrsEstCap, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,78,0.8223684210526315
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Height_W1",300,456,-0.01
+"Race, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1",400,385,0.17
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Weight_W1",381,456,-0.007874015748031496
+"Race, HandednessScore, EduComp, Sex, Ethnicity, BMI_W1",435,456,-0.006896551724137931
+"Race, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1",449,389,0.14253897550111358
+"Race, HandednessScore, EduComp, Sex, Height_W1, Weight_W1",435,456,-0.006896551724137931
+"Race, HandednessScore, EduComp, Sex, Height_W1, BMI_W1",435,452,0.0022988505747126436
+"Race, HandednessScore, EduComp, Sex, AgeMRI_W1, Weight_W1",451,389,0.1419068736141907
+"Race, HandednessScore, EduComp, Sex, AgeMRI_W1, BMI_W1",453,389,0.141280353200883
+"Race, HandednessScore, EduComp, Sex, Weight_W1, BMI_W1",435,434,0.04367816091954023
+"Race, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1",447,398,0.12304250559284116
+"Race, HandednessScore, EduComp, Ethnicity, Height_W1, Weight_W1",431,456,-0.0069605568445475635
+"Race, HandednessScore, EduComp, Ethnicity, Height_W1, BMI_W1",431,454,-0.002320185614849188
+"Race, HandednessScore, EduComp, Ethnicity, AgeMRI_W1, Weight_W1",451,398,0.12195121951219512
+"Race, HandednessScore, EduComp, Ethnicity, AgeMRI_W1, BMI_W1",453,398,0.12141280353200883
+"Race, HandednessScore, EduComp, Ethnicity, Weight_W1, BMI_W1",431,436,0.03944315545243619
+"Race, HandednessScore, EduComp, Height_W1, AgeMRI_W1, Weight_W1",453,400,0.11699779249448124
+"Race, HandednessScore, EduComp, Height_W1, AgeMRI_W1, BMI_W1",453,234,0.48344370860927155
+"Race, HandednessScore, EduComp, Height_W1, Weight_W1, BMI_W1",431,269,0.42691415313225056
+"Race, HandednessScore, EduComp, AgeMRI_W1, Weight_W1, BMI_W1",453,102,0.7748344370860927
+"Race, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1",434,389,0.14746543778801843
+"Race, HandednessScore, Sex, Ethnicity, Height_W1, Weight_W1",422,456,-0.0071090047393364926
+"Race, HandednessScore, Sex, Ethnicity, Height_W1, BMI_W1",422,450,0.0071090047393364926
+"Race, HandednessScore, Sex, Ethnicity, AgeMRI_W1, Weight_W1",447,389,0.14317673378076062
+"Race, HandednessScore, Sex, Ethnicity, AgeMRI_W1, BMI_W1",453,389,0.141280353200883
+"Race, HandednessScore, Sex, Ethnicity, Weight_W1, BMI_W1",422,438,0.035545023696682464
+"Race, HandednessScore, Sex, Height_W1, AgeMRI_W1, Weight_W1",453,389,0.141280353200883
+"Race, HandednessScore, Sex, Height_W1, AgeMRI_W1, BMI_W1",453,203,0.5518763796909493
+"Race, HandednessScore, Sex, Height_W1, Weight_W1, BMI_W1",420,218,0.5595238095238095
+"Race, HandednessScore, Sex, AgeMRI_W1, Weight_W1, BMI_W1",453,97,0.7858719646799117
+"Race, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,398,0.12141280353200883
+"Race, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,240,0.47019867549668876
+"Race, HandednessScore, Ethnicity, Height_W1, Weight_W1, BMI_W1",416,269,0.4423076923076923
+"Race, HandednessScore, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,103,0.7726269315673289
+"Race, HandednessScore, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,17,0.9624724061810155
+"Race, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1",440,434,0.04318181818181818
+"Race, EduComp, Sex, Ethnicity, Height_W1, Weight_W1",391,453,0.0
+"Race, EduComp, Sex, Ethnicity, Height_W1, BMI_W1",391,453,0.0
+"Race, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1",450,434,0.042222222222222223
+"Race, EduComp, Sex, Ethnicity, AgeMRI_W1, BMI_W1",456,434,0.041666666666666664
+"Race, EduComp, Sex, Ethnicity, Weight_W1, BMI_W1",391,449,0.010230179028132993
+"Race, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1",456,434,0.041666666666666664
+"Race, EduComp, Sex, Height_W1, AgeMRI_W1, BMI_W1",456,365,0.19298245614035087
+"Race, EduComp, Sex, Height_W1, Weight_W1, BMI_W1",389,386,0.17223650385604114
+"Race, EduComp, Sex, AgeMRI_W1, Weight_W1, BMI_W1",456,282,0.375
+"Race, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,439,0.03070175438596491
+"Race, EduComp, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,378,0.16447368421052633
+"Race, EduComp, Ethnicity, Height_W1, Weight_W1, BMI_W1",381,407,0.12073490813648294
+"Race, EduComp, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,294,0.34868421052631576
+"Race, EduComp, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,100,0.7741228070175439
+"Race, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",454,434,0.04185022026431718
+"Race, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",454,367,0.1894273127753304
+"Race, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",298,389,0.21476510067114093
+"Race, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",454,294,0.3502202643171806
+"Race, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",452,72,0.8429203539823009
+"Race, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",454,95,0.788546255506608
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1",322,452,0.003105590062111801
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1",411,277,0.4282238442822384
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Weight_W1",391,452,0.0025575447570332483
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, BMI_W1",439,452,0.002277904328018223
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1",449,282,0.38084632516703787
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, Weight_W1",439,454,-0.002277904328018223
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, BMI_W1",439,420,0.07517084282460136
+"EduYrsEstCap, HandednessScore, EduComp, Sex, AgeMRI_W1, Weight_W1",453,282,0.37748344370860926
+"EduYrsEstCap, HandednessScore, EduComp, Sex, AgeMRI_W1, BMI_W1",453,282,0.37748344370860926
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Weight_W1, BMI_W1",439,329,0.2824601366742597
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1",449,293,0.35634743875278396
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, Weight_W1",434,452,0.002304147465437788
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, BMI_W1",434,433,0.04608294930875576
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, AgeMRI_W1, Weight_W1",453,293,0.35320088300220753
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, AgeMRI_W1, BMI_W1",453,293,0.35320088300220753
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Weight_W1, BMI_W1",434,336,0.2695852534562212
+"EduYrsEstCap, HandednessScore, EduComp, Height_W1, AgeMRI_W1, Weight_W1",453,287,0.36644591611479027
+"EduYrsEstCap, HandednessScore, EduComp, Height_W1, AgeMRI_W1, BMI_W1",453,134,0.7041942604856513
+"EduYrsEstCap, HandednessScore, EduComp, Height_W1, Weight_W1, BMI_W1",434,85,0.847926267281106
+"EduYrsEstCap, HandednessScore, EduComp, AgeMRI_W1, Weight_W1, BMI_W1",453,52,0.8852097130242825
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1",449,379,0.16481069042316257
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, Weight_W1",439,456,-0.00683371298405467
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, BMI_W1",439,444,0.02050113895216401
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, AgeMRI_W1, Weight_W1",453,379,0.16335540838852097
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, AgeMRI_W1, BMI_W1",453,379,0.16335540838852097
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Weight_W1, BMI_W1",439,432,0.04783599088838269
+"EduYrsEstCap, HandednessScore, Sex, Height_W1, AgeMRI_W1, Weight_W1",453,377,0.16777041942604856
+"EduYrsEstCap, HandednessScore, Sex, Height_W1, AgeMRI_W1, BMI_W1",453,211,0.5342163355408388
+"EduYrsEstCap, HandednessScore, Sex, Height_W1, Weight_W1, BMI_W1",439,180,0.621867881548975
+"EduYrsEstCap, HandednessScore, Sex, AgeMRI_W1, Weight_W1, BMI_W1",453,94,0.7924944812362031
+"EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,387,0.1456953642384106
+"EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,241,0.46799116997792495
+"EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, Weight_W1, BMI_W1",434,246,0.4769585253456221
+"EduYrsEstCap, HandednessScore, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,107,0.7637969094922737
+"EduYrsEstCap, HandednessScore, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,26,0.9426048565121413
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1",444,414,0.08783783783783784
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, Weight_W1",404,453,0.0
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, BMI_W1",404,445,0.019801980198019802
+"EduYrsEstCap, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1",454,414,0.08590308370044053
+"EduYrsEstCap, EduComp, Sex, Ethnicity, AgeMRI_W1, BMI_W1",456,414,0.08552631578947369
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Weight_W1, BMI_W1",404,429,0.0594059405940594
+"EduYrsEstCap, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1",456,414,0.08552631578947369
+"EduYrsEstCap, EduComp, Sex, Height_W1, AgeMRI_W1, BMI_W1",456,250,0.4451754385964912
+"EduYrsEstCap, EduComp, Sex, Height_W1, Weight_W1, BMI_W1",400,262,0.4775
+"EduYrsEstCap, EduComp, Sex, AgeMRI_W1, Weight_W1, BMI_W1",456,143,0.6798245614035088
+"EduYrsEstCap, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,420,0.07236842105263158
+"EduYrsEstCap, EduComp, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,280,0.3793859649122807
+"EduYrsEstCap, EduComp, Ethnicity, Height_W1, Weight_W1, BMI_W1",393,311,0.361323155216285
+"EduYrsEstCap, EduComp, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,161,0.6403508771929824
+"EduYrsEstCap, EduComp, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,53,0.8771929824561403
+"EduYrsEstCap, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,431,0.04824561403508772
+"EduYrsEstCap, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,356,0.21271929824561403
+"EduYrsEstCap, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",402,376,0.19154228855721392
+"EduYrsEstCap, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,273,0.39473684210526316
+"EduYrsEstCap, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,84,0.8092105263157895
+"EduYrsEstCap, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,109,0.7543859649122807
+"HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1",449,403,0.111358574610245
+"HandednessScore, EduComp, Sex, Ethnicity, Height_W1, Weight_W1",430,456,-0.0069767441860465115
+"HandednessScore, EduComp, Sex, Ethnicity, Height_W1, BMI_W1",430,450,0.0069767441860465115
+"HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1",451,403,0.11086474501108648
+"HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, BMI_W1",453,403,0.11037527593818984
+"HandednessScore, EduComp, Sex, Ethnicity, Weight_W1, BMI_W1",430,440,0.030232558139534883
+"HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1",453,399,0.11920529801324503
+"HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, BMI_W1",453,228,0.4966887417218543
+"HandednessScore, EduComp, Sex, Height_W1, Weight_W1, BMI_W1",430,222,0.5372093023255814
+"HandednessScore, EduComp, Sex, AgeMRI_W1, Weight_W1, BMI_W1",453,127,0.7196467991169978
+"HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,409,0.09713024282560706
+"HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,264,0.41721854304635764
+"HandednessScore, EduComp, Ethnicity, Height_W1, Weight_W1, BMI_W1",425,281,0.4047058823529412
+"HandednessScore, EduComp, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,137,0.6975717439293598
+"HandednessScore, EduComp, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,40,0.9116997792494481
+"HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,401,0.11479028697571744
+"HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,238,0.4746136865342163
+"HandednessScore, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",417,233,0.5275779376498801
+"HandednessScore, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,138,0.695364238410596
+"HandednessScore, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,31,0.9315673289183223
+"HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,38,0.9161147902869757
+"EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,439,0.03070175438596491
+"EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,376,0.16885964912280702
+"EduComp, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",376,391,0.16489361702127658
+"EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,299,0.33771929824561403
+"EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,94,0.7872807017543859
+"EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,137,0.6929824561403509
+"Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",450,97,0.7911111111111111
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1",339,448,0.014749262536873156
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1",415,243,0.5060240963855421
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Weight_W1",402,448,0.012437810945273632
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, BMI_W1",443,448,0.011286681715575621
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1",449,255,0.44097995545657015
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, Weight_W1",443,450,0.006772009029345372
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, BMI_W1",443,405,0.10835214446952596
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, AgeMRI_W1, Weight_W1",453,255,0.4370860927152318
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, AgeMRI_W1, BMI_W1",453,255,0.4370860927152318
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Weight_W1, BMI_W1",443,294,0.35891647855530473
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1",449,260,0.4298440979955457
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, Weight_W1",439,448,0.011389521640091117
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, BMI_W1",439,422,0.07061503416856492
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, AgeMRI_W1, Weight_W1",453,260,0.4260485651214128
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, AgeMRI_W1, BMI_W1",453,260,0.4260485651214128
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Weight_W1, BMI_W1",439,304,0.33940774487471526
+"Race, EduYrsEstCap, HandednessScore, EduComp, Height_W1, AgeMRI_W1, Weight_W1",453,262,0.4216335540838852
+"Race, EduYrsEstCap, HandednessScore, EduComp, Height_W1, AgeMRI_W1, BMI_W1",453,78,0.8278145695364238
+"Race, EduYrsEstCap, HandednessScore, EduComp, Height_W1, Weight_W1, BMI_W1",439,42,0.9362186788154897
+"Race, EduYrsEstCap, HandednessScore, EduComp, AgeMRI_W1, Weight_W1, BMI_W1",453,16,0.9646799116997793
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1",449,357,0.21380846325167038
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, Weight_W1",443,456,-0.006772009029345372
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, BMI_W1",443,444,0.020316027088036117
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, AgeMRI_W1, Weight_W1",453,357,0.2119205298013245
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, AgeMRI_W1, BMI_W1",453,357,0.2119205298013245
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Weight_W1, BMI_W1",443,423,0.06772009029345373
+"Race, EduYrsEstCap, HandednessScore, Sex, Height_W1, AgeMRI_W1, Weight_W1",453,359,0.20750551876379691
+"Race, EduYrsEstCap, HandednessScore, Sex, Height_W1, AgeMRI_W1, BMI_W1",453,159,0.6490066225165563
+"Race, EduYrsEstCap, HandednessScore, Sex, Height_W1, Weight_W1, BMI_W1",443,149,0.6862302483069977
+"Race, EduYrsEstCap, HandednessScore, Sex, AgeMRI_W1, Weight_W1, BMI_W1",453,44,0.9028697571743929
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,368,0.18763796909492272
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,190,0.5805739514348786
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, Weight_W1, BMI_W1",439,208,0.5580865603644647
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,52,0.8852097130242825
+"Race, EduYrsEstCap, HandednessScore, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,4,0.9911699779249448
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1",448,408,0.10044642857142858
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, Weight_W1",413,453,0.0
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, BMI_W1",413,443,0.024213075060532687
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1",454,408,0.09911894273127753
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, AgeMRI_W1, BMI_W1",456,408,0.09868421052631579
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Weight_W1, BMI_W1",413,423,0.07263922518159806
+"Race, EduYrsEstCap, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1",456,406,0.10307017543859649
+"Race, EduYrsEstCap, EduComp, Sex, Height_W1, AgeMRI_W1, BMI_W1",456,222,0.506578947368421
+"Race, EduYrsEstCap, EduComp, Sex, Height_W1, Weight_W1, BMI_W1",413,235,0.5278450363196125
+"Race, EduYrsEstCap, EduComp, Sex, AgeMRI_W1, Weight_W1, BMI_W1",456,106,0.7609649122807017
+"Race, EduYrsEstCap, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,413,0.08771929824561403
+"Race, EduYrsEstCap, EduComp, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,262,0.41885964912280704
+"Race, EduYrsEstCap, EduComp, Ethnicity, Height_W1, Weight_W1, BMI_W1",405,280,0.4271604938271605
+"Race, EduYrsEstCap, EduComp, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,119,0.7324561403508771
+"Race, EduYrsEstCap, EduComp, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,21,0.9473684210526315
+"Race, EduYrsEstCap, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,425,0.06140350877192982
+"Race, EduYrsEstCap, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,337,0.2543859649122807
+"Race, EduYrsEstCap, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",411,357,0.23357664233576642
+"Race, EduYrsEstCap, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,243,0.4605263157894737
+"Race, EduYrsEstCap, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,46,0.8925438596491229
+"Race, EduYrsEstCap, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,59,0.8640350877192983
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1",449,385,0.1514476614699332
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, Weight_W1",435,456,-0.006896551724137931
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, BMI_W1",435,450,0.006896551724137931
+"Race, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1",451,385,0.15077605321507762
+"Race, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, BMI_W1",453,385,0.15011037527593818
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Weight_W1, BMI_W1",435,432,0.04827586206896552
+"Race, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1",453,385,0.15011037527593818
+"Race, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, BMI_W1",453,184,0.5938189845474614
+"Race, HandednessScore, EduComp, Sex, Height_W1, Weight_W1, BMI_W1",435,196,0.5908045977011495
+"Race, HandednessScore, EduComp, Sex, AgeMRI_W1, Weight_W1, BMI_W1",453,80,0.8233995584988962
+"Race, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,396,0.12582781456953643
+"Race, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,222,0.5099337748344371
+"Race, HandednessScore, EduComp, Ethnicity, Height_W1, Weight_W1, BMI_W1",431,249,0.4733178654292343
+"Race, HandednessScore, EduComp, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,82,0.8189845474613686
+"Race, HandednessScore, EduComp, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,11,0.9757174392935982
+"Race, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,385,0.15011037527593818
+"Race, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,194,0.5717439293598234
+"Race, HandednessScore, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",422,196,0.6090047393364929
+"Race, HandednessScore, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,83,0.8167770419426048
+"Race, HandednessScore, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,12,0.9735099337748344
+"Race, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,7,0.9845474613686535
+"Race, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,434,0.041666666666666664
+"Race, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,357,0.21052631578947367
+"Race, EduComp, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",391,382,0.1815856777493606
+"Race, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,272,0.3969298245614035
+"Race, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,55,0.8728070175438597
+"Race, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,82,0.8135964912280702
+"Race, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",454,56,0.8744493392070485
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1",449,277,0.39198218262806234
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, Weight_W1",439,452,0.002277904328018223
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, BMI_W1",439,415,0.08656036446469248
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1",453,277,0.38852097130242824
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, BMI_W1",453,277,0.38852097130242824
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Weight_W1, BMI_W1",439,324,0.2938496583143508
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1",453,272,0.3995584988962472
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, BMI_W1",453,109,0.7593818984547461
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, Weight_W1, BMI_W1",439,56,0.9043280182232346
+"EduYrsEstCap, HandednessScore, EduComp, Sex, AgeMRI_W1, Weight_W1, BMI_W1",453,47,0.8962472406181016
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,282,0.37748344370860926
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,124,0.7262693156732892
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, Weight_W1, BMI_W1",434,76,0.868663594470046
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,47,0.8962472406181016
+"EduYrsEstCap, HandednessScore, EduComp, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,3,0.9933774834437086
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,375,0.17218543046357615
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,201,0.5562913907284768
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",439,169,0.6469248291571754
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,87,0.8079470198675497
+"EduYrsEstCap, HandednessScore, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,17,0.9624724061810155
+"EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,21,0.9536423841059603
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,412,0.08991228070175439
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,241,0.4649122807017544
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",404,253,0.49504950495049505
+"EduYrsEstCap, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,133,0.7017543859649122
+"EduYrsEstCap, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,33,0.9210526315789473
+"EduYrsEstCap, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,47,0.8903508771929824
+"EduYrsEstCap, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,76,0.8267543859649122
+"HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,399,0.11920529801324503
+"HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,221,0.5121412803532008
+"HandednessScore, EduComp, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",430,213,0.5581395348837209
+"HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,116,0.7439293598233996
+"HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,30,0.9337748344370861
+"HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,36,0.9205298013245033
+"HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,28,0.9381898454746137
+"EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,86,0.8048245614035088
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1",449,243,0.46770601336302897
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, Weight_W1",443,448,0.011286681715575621
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, BMI_W1",443,400,0.11963882618510158
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1",453,243,0.46357615894039733
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, BMI_W1",453,243,0.46357615894039733
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Weight_W1, BMI_W1",443,283,0.3837471783295711
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1",453,246,0.45695364238410596
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, BMI_W1",453,53,0.8830022075055187
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, Weight_W1, BMI_W1",443,17,0.9841986455981941
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, AgeMRI_W1, Weight_W1, BMI_W1",453,9,0.9801324503311258
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,251,0.445916114790287
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,60,0.8675496688741722
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, Weight_W1, BMI_W1",439,23,0.979498861047836
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,11,0.9757174392935982
+"Race, EduYrsEstCap, HandednessScore, EduComp, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,0,1.0
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,353,0.22075055187637968
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,144,0.6821192052980133
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",443,128,0.7336343115124153
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,33,0.9271523178807947
+"Race, EduYrsEstCap, HandednessScore, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,3,0.9933774834437086
+"Race, EduYrsEstCap, HandednessScore, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,0,1.0
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",456,404,0.1074561403508772
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",456,212,0.5285087719298246
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",413,215,0.576271186440678
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",456,92,0.7916666666666666
+"Race, EduYrsEstCap, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,14,0.9627192982456141
+"Race, EduYrsEstCap, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,9,0.9736842105263158
+"Race, EduYrsEstCap, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,30,0.9276315789473685
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,381,0.15894039735099338
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,174,0.6158940397350994
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",435,173,0.6436781609195402
+"Race, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,64,0.8587196467991169
+"Race, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,8,0.9823399558498896
+"Race, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,6,0.9867549668874173
+"Race, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,4,0.9911699779249448
+"Race, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,42,0.9013157894736842
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,267,0.4105960264900662
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,98,0.7836644591611479
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",439,49,0.9202733485193622
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,40,0.9116997792494481
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,1,0.9977924944812362
+"EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,2,0.9955849889624724
+"EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,10,0.977924944812362
+"EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,28,0.9320175438596491
+"HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,27,0.9403973509933775
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1",453,234,0.48344370860927155
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, BMI_W1",453,38,0.9161147902869757
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, Weight_W1, BMI_W1",443,1,1.020316027088036
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, AgeMRI_W1, Weight_W1, BMI_W1",453,7,0.9845474613686535
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,0,1.0
+"Race, EduYrsEstCap, HandednessScore, EduComp, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,0,1.0
+"Race, EduYrsEstCap, HandednessScore, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,0,1.0
+"Race, EduYrsEstCap, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",456,3,0.9868421052631579
+"Race, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,4,0.9911699779249448
+"EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,0,1.0
+"Race, EduYrsEstCap, HandednessScore, EduComp, Sex, Ethnicity, Height_W1, AgeMRI_W1, Weight_W1, BMI_W1",453,0,1.0

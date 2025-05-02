@@ -1,0 +1,100 @@
+Combination,Unique Rows,Unique Rows Excluding Columns,Score
+"age, height (cm)(pre-op), handedness",27,15,0.5185185185185185
+"age, height (cm)(pre-op), Marital status",27,16,0.48148148148148145
+"age, height (cm)(pre-op), Employment",27,12,0.6296296296296297
+"age, height (cm)(pre-op), Education level (1-9)",29,10,0.6551724137931034
+"age, height (cm)(pre-op), sex",27,18,0.4074074074074074
+"age, handedness, Marital status",22,27,0.09090909090909091
+"age, handedness, Employment",18,25,0.2222222222222222
+"age, handedness, Education level (1-9)",29,23,0.20689655172413793
+"age, handedness, sex",23,27,0.08695652173913043
+"age, Marital status, Employment",20,27,0.1
+"age, Marital status, Education level (1-9)",29,23,0.20689655172413793
+"age, Marital status, sex",23,27,0.08695652173913043
+"age, Employment, Education level (1-9)",29,21,0.27586206896551724
+"age, Employment, sex",21,27,0.09523809523809523
+"age, Education level (1-9), sex",29,23,0.20689655172413793
+"height (cm)(pre-op), handedness, Marital status",19,29,0.0
+"height (cm)(pre-op), handedness, Employment",23,29,0.0
+"height (cm)(pre-op), handedness, Education level (1-9)",27,23,0.2222222222222222
+"height (cm)(pre-op), handedness, sex",18,29,0.0
+"height (cm)(pre-op), Marital status, Employment",23,29,0.0
+"height (cm)(pre-op), Marital status, Education level (1-9)",25,23,0.24
+"height (cm)(pre-op), Marital status, sex",20,29,0.0
+"height (cm)(pre-op), Employment, Education level (1-9)",27,25,0.14814814814814814
+"height (cm)(pre-op), Employment, sex",21,29,0.0
+"height (cm)(pre-op), Education level (1-9), sex",25,22,0.28
+"handedness, Marital status, Employment",10,29,0.0
+"handedness, Marital status, Education level (1-9)",12,27,0.16666666666666666
+"handedness, Marital status, sex",6,29,0.0
+"handedness, Employment, Education level (1-9)",16,27,0.125
+"handedness, Employment, sex",8,29,0.0
+"handedness, Education level (1-9), sex",7,27,0.2857142857142857
+"Marital status, Employment, Education level (1-9)",13,27,0.15384615384615385
+"Marital status, Employment, sex",6,29,0.0
+"Marital status, Education level (1-9), sex",7,27,0.2857142857142857
+"Employment, Education level (1-9), sex",10,27,0.2
+"age, height (cm)(pre-op), handedness, Marital status",27,10,0.7037037037037037
+"age, height (cm)(pre-op), handedness, Employment",27,7,0.8148148148148148
+"age, height (cm)(pre-op), handedness, Education level (1-9)",29,6,0.7931034482758621
+"age, height (cm)(pre-op), handedness, sex",27,13,0.5925925925925926
+"age, height (cm)(pre-op), Marital status, Employment",27,7,0.8148148148148148
+"age, height (cm)(pre-op), Marital status, Education level (1-9)",29,8,0.7241379310344828
+"age, height (cm)(pre-op), Marital status, sex",27,16,0.48148148148148145
+"age, height (cm)(pre-op), Employment, Education level (1-9)",29,6,0.7931034482758621
+"age, height (cm)(pre-op), Employment, sex",27,12,0.6296296296296297
+"age, height (cm)(pre-op), Education level (1-9), sex",29,10,0.6551724137931034
+"age, handedness, Marital status, Employment",22,25,0.18181818181818182
+"age, handedness, Marital status, Education level (1-9)",29,21,0.27586206896551724
+"age, handedness, Marital status, sex",25,27,0.08
+"age, handedness, Employment, Education level (1-9)",29,20,0.3103448275862069
+"age, handedness, Employment, sex",23,25,0.17391304347826086
+"age, handedness, Education level (1-9), sex",29,23,0.20689655172413793
+"age, Marital status, Employment, Education level (1-9)",29,18,0.3793103448275862
+"age, Marital status, Employment, sex",23,27,0.08695652173913043
+"age, Marital status, Education level (1-9), sex",29,23,0.20689655172413793
+"age, Employment, Education level (1-9), sex",29,19,0.3448275862068966
+"height (cm)(pre-op), handedness, Marital status, Employment",23,29,0.0
+"height (cm)(pre-op), handedness, Marital status, Education level (1-9)",27,21,0.2962962962962963
+"height (cm)(pre-op), handedness, Marital status, sex",21,29,0.0
+"height (cm)(pre-op), handedness, Employment, Education level (1-9)",27,23,0.2222222222222222
+"height (cm)(pre-op), handedness, Employment, sex",23,29,0.0
+"height (cm)(pre-op), handedness, Education level (1-9), sex",27,20,0.3333333333333333
+"height (cm)(pre-op), Marital status, Employment, Education level (1-9)",27,23,0.2222222222222222
+"height (cm)(pre-op), Marital status, Employment, sex",23,29,0.0
+"height (cm)(pre-op), Marital status, Education level (1-9), sex",25,18,0.44
+"height (cm)(pre-op), Employment, Education level (1-9), sex",27,22,0.25925925925925924
+"handedness, Marital status, Employment, Education level (1-9)",18,27,0.1111111111111111
+"handedness, Marital status, Employment, sex",10,29,0.0
+"handedness, Marital status, Education level (1-9), sex",12,27,0.16666666666666666
+"handedness, Employment, Education level (1-9), sex",16,27,0.125
+"Marital status, Employment, Education level (1-9), sex",15,27,0.13333333333333333
+"age, height (cm)(pre-op), handedness, Marital status, Employment",27,2,1.0
+"age, height (cm)(pre-op), handedness, Marital status, Education level (1-9)",29,2,0.9310344827586207
+"age, height (cm)(pre-op), handedness, Marital status, sex",27,9,0.7407407407407407
+"age, height (cm)(pre-op), handedness, Employment, Education level (1-9)",29,1,0.9655172413793104
+"age, height (cm)(pre-op), handedness, Employment, sex",27,7,0.8148148148148148
+"age, height (cm)(pre-op), handedness, Education level (1-9), sex",29,5,0.8275862068965517
+"age, height (cm)(pre-op), Marital status, Employment, Education level (1-9)",29,5,0.8275862068965517
+"age, height (cm)(pre-op), Marital status, Employment, sex",27,5,0.8888888888888888
+"age, height (cm)(pre-op), Marital status, Education level (1-9), sex",29,7,0.7586206896551724
+"age, height (cm)(pre-op), Employment, Education level (1-9), sex",29,6,0.7931034482758621
+"age, handedness, Marital status, Employment, Education level (1-9)",29,13,0.5517241379310345
+"age, handedness, Marital status, Employment, sex",25,25,0.16
+"age, handedness, Marital status, Education level (1-9), sex",29,21,0.27586206896551724
+"age, handedness, Employment, Education level (1-9), sex",29,18,0.3793103448275862
+"age, Marital status, Employment, Education level (1-9), sex",29,16,0.4482758620689655
+"height (cm)(pre-op), handedness, Marital status, Employment, Education level (1-9)",27,21,0.2962962962962963
+"height (cm)(pre-op), handedness, Marital status, Employment, sex",23,29,0.0
+"height (cm)(pre-op), handedness, Marital status, Education level (1-9), sex",27,16,0.48148148148148145
+"height (cm)(pre-op), handedness, Employment, Education level (1-9), sex",27,20,0.3333333333333333
+"height (cm)(pre-op), Marital status, Employment, Education level (1-9), sex",27,18,0.4074074074074074
+"handedness, Marital status, Employment, Education level (1-9), sex",19,27,0.10526315789473684
+"age, height (cm)(pre-op), handedness, Marital status, Employment, Education level (1-9)",29,0,1.0
+"age, height (cm)(pre-op), handedness, Marital status, Employment, sex",27,0,1.0740740740740742
+"age, height (cm)(pre-op), handedness, Marital status, Education level (1-9), sex",29,2,0.9310344827586207
+"age, height (cm)(pre-op), handedness, Employment, Education level (1-9), sex",29,1,0.9655172413793104
+"age, height (cm)(pre-op), Marital status, Employment, Education level (1-9), sex",29,5,0.8275862068965517
+"age, handedness, Marital status, Employment, Education level (1-9), sex",29,11,0.6206896551724138
+"height (cm)(pre-op), handedness, Marital status, Employment, Education level (1-9), sex",27,16,0.48148148148148145
+"age, height (cm)(pre-op), handedness, Marital status, Employment, Education level (1-9), sex",29,0,1.0

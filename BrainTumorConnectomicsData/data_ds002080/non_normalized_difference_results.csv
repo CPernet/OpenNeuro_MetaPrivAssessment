@@ -1,0 +1,45 @@
+Column,Unique Rows After Removal,Difference in Unique Rows,Normalized Difference
+ERQ reappraisal,29,0,0.0
+MOT_latency_mean,29,0,0.0
+MOT_error_mean,29,0,0.0
+RTI_simpleRT_sd,29,0,0.0
+RTI_simpleMT_mean,29,0,0.0
+RTI_simpleMT_sd,29,0,0.0
+RTI_fiveMT,29,0,0.0
+RTI_fiveRT,29,0,0.0
+RTI_fiveRT_sd,29,0,0.0
+RTI_fiveMT_mean,29,0,0.0
+RTI_fiveMT_md,29,0,0.0
+RTI_fiveMT_sd,29,0,0.0
+MOT_latency_md,29,0,0.0
+RTI_simpleRT_mean,29,0,0.0
+RTI_simpleMT_md,29,0,0.0
+RVP_latancy_mean,29,0,0.0
+RVP_latency_md,29,0,0.0
+RTI_simpleRT_md,29,0,0.0
+RVP_A,29,0,0.0
+weight (kg)(pre-op),29,0,0.0
+Loneliness,29,0,0.0
+PSWQ,29,0,0.0
+STAI,29,0,0.0
+SOC_meanmoves5,29,0,0.0
+RVP_probhit,29,0,0.0
+ERQ suppression,29,0,0.0
+SOC_meanmoves4,29,0,0.0
+ERQ processing,29,0,0.0
+ERQ expression,29,0,0.0
+tumor type & grade,29,0,0.0
+SOC_prob_minmoves,29,0,0.0
+SSP_spanlength,29,0,0.0
+RVP_falsealarms,29,0,0.0
+tumor location,29,0,0.0
+Sport frequency (compared to pre-op),29,0,0.0
+SOC_meanmoves3,29,0,0.0
+Cafeine use (compared to pre-op),29,0,0.0
+Alcohol use (compared to pre-op),29,0,0.0
+sex,29,0,0.0
+fmri TR,29,0,0.0
+RTI_simple_accuracy,29,0,0.0
+RTI_five_accuracy,29,0,0.0
+SOC_meanmoves2,29,0,0.0
+Smoking (compared to pre-op),29,0,0.0

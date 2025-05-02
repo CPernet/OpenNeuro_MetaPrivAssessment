@@ -1,0 +1,9 @@
+Column,Unique Rows After Removal,Difference in Unique Rows,Normalized Difference
+AgeCog_W1,350,110,1.6
+Height_W1,420,40,1.3
+HandednessScore,454,6,0.3
+EduYrsEstCap,460,0,0.0
+Race,460,0,0.0
+EduComp,460,0,0.0
+Sex,460,0,0.0
+Ethnicity,460,0,0.0

@@ -1,0 +1,18 @@
+Column,Unique Rows After Removal,Difference in Unique Rows,Normalized Difference
+piper_motion,70,0,0.0
+pos_affect_HO_amyg,70,0,0.0
+neg_affect_HO_amyg,70,0,0.0
+parent_child_HO_amyg,70,0,0.0
+parent_child_ses_zstat1,70,0,0.0
+pos_affect_neg_parent_zstat2_1,70,0,0.0
+pos_affect_neg_parent_zstat2_2,70,0,0.0
+pos_parent,70,0,0.0
+pos_content_avg,70,0,0.0
+pos_affect_avg,70,0,0.0
+neg_parent,70,0,0.0
+neg_content_avg,70,0,0.0
+piper_outliers,70,0,0.0
+les_1y_sum,70,0,0.0
+neg_affect_avg,70,0,0.0
+dataset,70,0,0.0
+parent,70,0,0.0

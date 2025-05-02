@@ -1,0 +1,8 @@
+Column,Unique Rows After Removal,Difference in Unique Rows,Normalized Difference
+age_scan,52,14,1.8
+parent1_edu,60,6,1.0
+Race,64,2,0.4
+income_median,66,0,0.0
+parent2_edu,66,0,0.0
+male,66,0,0.0
+income_rank,66,0,0.0
