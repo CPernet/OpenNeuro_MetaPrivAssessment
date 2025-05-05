@@ -111,7 +111,7 @@ def convert_to_numeric(df):
 
 
 
-def compute_suda2(dataframe, sample_fraction=0.2, missing_value=np.NaN):
+def compute_suda2(dataframe, sample_fraction=0.2, missing_value=np.nan):
     with localconverter(pandas2ri.converter):
         r_df = robjects.conversion.py2rpy(dataframe)
         
