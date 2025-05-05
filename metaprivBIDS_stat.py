@@ -2,8 +2,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import spearmanr, kendalltau, linregress, rankdata
 from rpy2 import robjects
-from rpy2.robjects.packages import importr
-from rpy2.robjects import pandas2ri
+from rpy2.robjects.packages import importr  
+import rpy2.robjects.packages as rpackages
+utils = rpackages.importr("utils")     # R's utils package
+utils.chooseCRANmirror(ind=1)          # choose the first mirror
+utils.install_packages("sdcMicro")     # installs into the default R lib path
+sdcMicro = rpackages.importr("sdcMicro")
+from rpy2.robjects import pandas2ri # turn on automatic pandas↔R data‑frame conversion (handy!)
+pandas2ri.activate()
 import numpy as np
 import piflib 
 from piflib import compute_cigs
@@ -11,7 +17,8 @@ import warnings
 
 
 # Suppress SettingWithCopyWarning
-warnings.simplefilter(action='ignore', category=pd.core.common.SettingWithCopyWarning)
+# warnings.simplefilter(action='ignore', category=pd.core.common.SettingWithCopyWarning)
+pd.options.mode.chained_assignment = None
 
 # Activate pandas <-> R DataFrame conversion
 pandas2ri.activate()
