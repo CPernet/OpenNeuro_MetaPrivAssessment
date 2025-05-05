@@ -218,11 +218,6 @@ def plot_calc(k_combined_all):
     return
 
 
-
-
-
-
-
 def rst_outlier_case2(data, column, k=2.2414):
     column_data = data[column]
     column_data_array = np.array(column_data)
