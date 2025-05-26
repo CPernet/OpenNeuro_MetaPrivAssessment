@@ -144,32 +144,6 @@ SUDA & K: 0.34<br>
 | Spearman Correlation        | PIF 95% & SUDA            | 0.71                    |
 | Pearson Correlation         | PIF 95% & SUDA            | 0.74                    |
 
-
-#### MULTI correlation
-
-| Correlation Type            | Variables                 | Correlation Value       |
-|-----------------------------|---------------------------|-------------------------|
-| Spearman Correlation        | Suda sum & K-combined     | 0.66                    |
-| Pearson Correlation         | Suda sum & K-combined     | 0.33                    |
-| Spearman Correlation        | PIF 95% & K-combined      | 0.87                    |
-| Pearson Correlation         | PIF 95% & K-combined      | 0.70                    |
-| Spearman Correlation        | PIF 95% & SUDA            | 0.75                    |
-| Pearson Correlation         | PIF 95% & SUDA            | 0.68                    |
-
-
-#### NIMH correlation
-
-| Correlation Type            | Variables                 | Correlation Value               |
-|-----------------------------|---------------------------|---------------------------------|
-| Spearman Correlation        | Suda sum & K-combined     | -0.80                           |
-| Pearson Correlation         | Suda sum & K-combined     | -0.42            |
-| Spearman Correlation        | PIF 95% & K-combined      | -0.67                           |
-| Pearson Correlation         | PIF 95% & K-combined      | -0.34            |
-| Spearman Correlation        | PIF 95% & SUDA            | 0.88                            |
-| Pearson Correlation         | PIF 95% & SUDA            | 0.92       |
-
-
-
 #### BTC correlatioon
 
 | Correlation Type            | Variables                 | Correlation Value       |
